@@ -1,13 +1,13 @@
 # dependencies
-/node_modules
+node_modules/
 package-lock.json
 
 # production
-/build
+build/
 
 # misc
 .DS_Store
 
 npm-debug.log*
 
-/.idea
+.idea/
